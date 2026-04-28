@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /employees.html
+
+Sitemap: https://www.smoaksalon.com/sitemap.xml
